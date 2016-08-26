@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trusted-keys xmlns="http://zero-install.sourceforge.net/2007/injector/trust">
+	<key fingerprint="DA9825AECAD089757CDABD8E07133F96CA74D8BA">
+		<domain value="repo.roscidus.com"/>
+		<domain value="rox.sourceforge.net"/>
+	</key>
+</trusted-keys>
